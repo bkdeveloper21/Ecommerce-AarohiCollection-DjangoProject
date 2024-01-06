@@ -7,5 +7,6 @@
 ![image](https://github.com/bkdeveloper21/Ecommerce-AarohiCollection-DjangoProject/assets/100483400/7044b3b4-946f-4efa-b0f5-214768b7fb87)
 ![image](https://github.com/bkdeveloper21/Ecommerce-AarohiCollection-DjangoProject/assets/100483400/570adbc8-a8b6-4af1-9c40-70ebd3f7a6d5)
 ![image](https://github.com/bkdeveloper21/Ecommerce-AarohiCollection-DjangoProject/assets/100483400/04f50681-72f0-4e83-92ee-73206ffb6305)
+![image](https://github.com/bkdeveloper21/Ecommerce-AarohiCollection-DjangoProject/assets/100483400/84db52c3-5be7-4c42-a574-ad72057e1b3d)
 
 
