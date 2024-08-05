@@ -1,0 +1,61 @@
+Sure, here are the steps you can follow:
+
+1) Download Zip from GitHub:
+
+Go to the GitHub repository you want to download.
+Click on the "Code" button.
+Select "Download ZIP".
+Once downloaded, extract the contents of the ZIP file to a directory of your choice.
+
+2) Unblock from Properties (Windows):
+
+Right-click on the extracted folder.
+Go to "Properties".
+In the General tab, if there's an "Unblock" button, click it.
+Click "Apply" and then "OK".
+
+3) Open in VS Code:
+
+Open Visual Studio Code.
+Go to File > Open Folder.
+Navigate to the directory where you extracted the GitHub project, and select it.
+Click "Open".
+
+4) Create Virtual Environment:
+
+Open a new terminal in VS Code (Terminal > New Terminal).
+Type the following command to create a virtual environment named venv:
+Copy code
+python -m venv venv
+
+
+5) Activate Virtual Environment:
+
+Depending on your operating system:
+On Windows:
+Copy code
+venv\Scripts\activate
+On macOS/Linux:
+bash
+Copy code
+source venv/bin/activate
+
+
+Install Requirements from requirements.txt:
+
+While your virtual environment is activated, navigate to the directory where requirements.txt is located.
+Run the following command to install the required packages:
+Copy code
+pip install -r requirements.txt
+Go to Project Directory:
+
+Navigate to your project directory in the terminal:
+bash
+Copy code
+cd your_project_directory
+Run Django Server:
+
+Run the following command to start the Django development server:
+Copy code
+python manage.py runserver
+These steps should help you set up and run a Django project downloaded from GitHub in Visual Studio Code with a virtual environment.
